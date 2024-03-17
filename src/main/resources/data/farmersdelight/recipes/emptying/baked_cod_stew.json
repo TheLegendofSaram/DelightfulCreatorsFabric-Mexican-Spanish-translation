@@ -8,7 +8,7 @@
   ],
   "ingredients": [
     {
-      "item": "farmersdelight:tomato_sauce"
+      "item": "farmersdelight:baked_cod_stew"
     }
   ],
   "results": [
@@ -17,7 +17,7 @@
     },
     {
       "amount": 20250,
-      "fluid": "delightfulcreators:tomato_sauce"
+      "fluid": "delightfulcreators:baked_cod_stew"
     }
   ]
 }
